@@ -55,7 +55,7 @@ return [
         'doesnt_exists' => ":attribute tidak ada",
     ],
     'auth' => [
-        'login' => 'Masuk',
+        'login' => 'Asup',
         'email_placeholder' => 'Silakan masukkan surel Anda',
     ],
 ];
